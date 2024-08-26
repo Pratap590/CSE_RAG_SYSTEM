@@ -7,3 +7,4 @@ python-dotenv
 pypdf
 langchain_community
 langchain_chroma
+sqlite3
