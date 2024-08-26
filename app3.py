@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-st.title("Fusional AI Fridom Of Thinking")
+st.title("Fusional AI Freedom Of Thinking")
 
 loader = WebBaseLoader("https://www.javatpoint.com/")
 data = loader.load()
